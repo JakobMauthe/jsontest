@@ -1,10 +1,1 @@
-{
-	"playerName" : "Speed Shop",
-	"speeds" :
-	[
-		{
-			"id" : 0,
-			"speed" : "1.6"
-		}
-	]
-}
+{"speed":44}
